@@ -48,7 +48,7 @@
 
 				loop = setInterval(function() {
 					// loop - one, two, trÃ­
-					if(num == 300) {
+					if(num == 3) {
 						num = 0;
 					} else {
 						num++;
